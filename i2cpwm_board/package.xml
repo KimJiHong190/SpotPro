@@ -10,7 +10,7 @@
   <author>Bradan Lane Studio</author>
   <maintainer email="locoro@bradanlane.com">bradanlane</maintainer>
   <license>GPLv3</license>
-  <url>https://gitlab.com/bradanlane/ros-i2cpwmboard</url>
+  <url>https://github.com/EricWiener/ros-i2cpwmboards</url>
 
   <buildtool_depend>catkin</buildtool_depend>
 
