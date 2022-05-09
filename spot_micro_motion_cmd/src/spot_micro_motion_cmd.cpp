@@ -13,10 +13,10 @@
 
 #include "spot_micro_motion_cmd.h"
 #include "spot_micro_kinematics/spot_micro_kinematics.h"
-//#include "i2cpwm_board/Servo.h"
-//#include "i2cpwm_board/ServoArray.h"
-//#include "i2cpwm_board/ServoConfig.h"
-//#include "i2cpwm_board/ServosConfig.h"
+#include "i2cpwm_board/Servo.h"
+#include "i2cpwm_board/ServoArray.h"
+#include "i2cpwm_board/ServoConfig.h"
+#include "i2cpwm_board/ServosConfig.h"
 #include "spot_micro_idle.h"
 #include "utils.h"
 
